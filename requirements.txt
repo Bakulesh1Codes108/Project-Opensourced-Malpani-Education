@@ -1,0 +1,8 @@
+pandas
+networkx
+matplotlib
+transformers
+torch
+scikit-learn
+language_tool_python
+tk

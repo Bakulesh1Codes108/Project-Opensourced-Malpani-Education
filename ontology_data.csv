@@ -1,0 +1,39 @@
+id,label,type
+1,Microbes in Human Welfare,Chapter
+2,Microbes in Household Products,Section
+3,Microbes in Industrial Products,Section
+4,Microbes in Sewage Treatment,Section
+5,Microbes in Production of Biogas,Section
+6,Microbes as Biocontrol Agents,Section
+7,Microbes as Biofertilisers,Section
+8,Lactic Acid Bacteria,Concept
+9,Fermented Beverages,Concept
+10,Antibiotics,Concept
+11,Penicillin,Concept
+12,Citric Acid,Concept
+13,Acetic Acid,Concept
+14,Butyric Acid,Concept
+15,Lactic Acid,Concept
+16,Ethanol,Concept
+17,Lipases,Concept
+18,Pectinases,Concept
+19,Proteases,Concept
+20,Streptokinase,Concept
+21,Cyclosporin A,Concept
+22,Statins,Concept
+23,Sewage Treatment,Concept
+24,Biogas,Concept
+25,Methanogens,Concept
+26,Bacillus thuringiensis,Concept
+27,Biocontrol Agents,Concept
+28,Trichoderma,Concept
+29,Baculoviruses,Concept
+30,Biofertilisers,Concept
+31,Rhizobium,Concept
+32,Azospirillum,Concept
+33,Azotobacter,Concept
+34,Mycorrhiza,Concept
+35,Glomus,Concept
+36,Anabaena,Concept
+37,Nostoc,Concept
+38,Oscillatoria,Concept
